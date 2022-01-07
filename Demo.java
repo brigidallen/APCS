@@ -1,5 +1,5 @@
 public class Demo{
   public static void main(String[]args){
-    System.out.println("APCS")
+    System.out.println("APCS");
     }
 }
